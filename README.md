@@ -1,24 +1,29 @@
-👋 Hi there!
+# Hi there 👋
 
-I’m a passionate Software Engineer with over 4 years of experience specializing in backend development and scalable web applications. I thrive on building efficient and robust solutions that make an impact.
+## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=mhshujon&theme=dark)
 
-💻 What I Do:
+## 🛠️ Tech Stack
+### Programming Languages
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-- Backend development and API design for scalable systems
-- Contributions to open-source projects, including WordPress 6.4
-- Building efficient solutions with the MERN stack (MongoDB, Express.js, React, Node.js)
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-🚀 Currently Exploring:
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-- Advanced concepts in Node.js, Express.js, MongoDB, and React
-- Microservices architecture for scalable, maintainable applications
 
-📚 Why I Code:
-
-Programming is more than just a profession for me—it’s my passion. I love solving problems, learning new technologies, and contributing to the developer community.
-
-🌐 Explore My Work:
-
-Check out my portfolio: https://mhshujon.github.io/
-
-Let’s connect and collaborate on impactful projects! 🌟
+## 🌐 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/mhshujon)
+- [https://mhshujon.github.io/](https://mhshujon.github.io/)
